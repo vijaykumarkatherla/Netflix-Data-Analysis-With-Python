@@ -55,7 +55,7 @@ The analysis was done entirely in **Python**, using **Pandas**, **NumPy**, **Mat
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/malshetri/netflix-content-analysis.git
+   git clone https://github.com/vijaykumarkatherla/Netflix-Data-Analysis-in-Python.git
    cd netflix-content-analysis
    ```
 2. **Install required libraries:**
