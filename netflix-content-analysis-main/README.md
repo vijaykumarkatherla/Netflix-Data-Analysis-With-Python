@@ -74,7 +74,7 @@ The analysis was done entirely in **Python**, using **Pandas**, **NumPy**, **Mat
 
 ## 📌 Author
 
-**\[Muneer Al-Shetri]** — Data Analyst
+**\[Katherla Vijay Kumar]** — Data Analyst
 
 * GitHub: [Katherla vijaykumar](https://github.com/vijaykumarkatherla)
 * LinkedIn: [Katherla vijaykumar](https://www.linkedin.com/in/katherla-vijay-kumar-566b76265/)
